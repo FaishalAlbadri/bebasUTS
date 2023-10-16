@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">bebasUTS</string>
+
+    <string name="profil">
+        <![CDATA[
+        Ahmad Faishal Albadri<br>
+        20523166<br>
+        Bebas UTS<br>
+        <a href="mailto:20523166@students.uii.ac.id">20523166@students.uii.ac.id</a>
+        ]]>
+    </string>
+</resources>
